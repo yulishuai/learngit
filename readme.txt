@@ -1,2 +1,2 @@
-Git is a diatributed control system.
-Git is ree software.
+Git is a diatributed version control system.
+Git is ree software distributed under the GPL.
